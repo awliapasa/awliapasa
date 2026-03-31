@@ -31,4 +31,4 @@ Currently focusing on improving my skills in **Python, data analysis, and AI dev
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awliapasa&layout=compact)
