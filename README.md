@@ -1,6 +1,6 @@
 ## <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/cd717885-45a8-4ee2-a4ee-628a35c57f26" />
 
-# Hi there! 👋 I'm Aulia Fasya
+# Hi there! I'm Aulia Fasya 👋
 
 👩‍🎓 Undergraduate Informatics student at **Kalbis University, Jakarta**  
 🤖 Interested in **Machine Learning, Data Science, Artificial Intelligence, and Backend Development**
