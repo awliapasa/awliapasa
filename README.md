@@ -6,7 +6,7 @@
 🤖 Interested in **Machine Learning, Data Science, Artificial Intelligence, and Backend Development**
 
 I enjoy learning new technologies, exploring data, and building solutions using programming.  
-Currently focusing on improving my skills in **Python, data analysis, and AI development**.
+Currently focusing on improving my skills in **Python, data analysis, and AI development** at Infinite Learning.
 
 ---
 
@@ -27,4 +27,8 @@ Currently focusing on improving my skills in **Python, data analysis, and AI dev
 
 ---
 
-⭐ *"Keep learning, keep building, and never stop exploring technology."*profile.
+⭐ *"It does not matter how slowly you go, as long as you do not stop - Confucius."
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
