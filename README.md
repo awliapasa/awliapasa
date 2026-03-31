@@ -28,9 +28,3 @@ Currently focusing on improving my skills in **Python, data analysis, and AI dev
 ---
 
 ⭐ *"It does not matter how slowly you go, as long as you do not stop - Confucius."
-
----
-
-## My Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awliapasa&layout=compact)
