@@ -1,16 +1,30 @@
-## Hi there 👋
+## <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/cd717885-45a8-4ee2-a4ee-628a35c57f26" />
 
-<!--
-**awliapasa/awliapasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Aulia Fasya
 
-Here are some ideas to get you started:
+👩‍🎓 Undergraduate Informatics student at **Kalbis University, Jakarta**  
+🤖 Interested in **Machine Learning, Data Science, Artificial Intelligence, and Backend Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, exploring data, and building solutions using programming.  
+Currently focusing on improving my skills in **Python, data analysis, and AI development**.
+
+---
+
+## 💻 Tech Stack
+
+- **Programming Languages:** Python, JavaScript, Java, C, C++  
+- **Web Development:** HTML, CSS, PHP  
+- **Database:** SQL  
+- **Tools & IDE:** Visual Studio Code
+
+---
+
+## 🌐 Let's Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/aulia-fasya/
+- 📧 Email: auliafasyaaa05@gmail.com
+- 📷 Instagram: @aulfsy
+
+---
+
+⭐ *"Keep learning, keep building, and never stop exploring technology."*profile.
